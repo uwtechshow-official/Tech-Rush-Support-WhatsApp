@@ -8,7 +8,7 @@ Base Bot WhatsApp (Case)
 Clone the project
 
 ```bash
-  git clone https://github.com/NCTea/Felice-MD
+  git clone https://github.com/uwtechshow-official/Tech-Rush-Support-WhatsApp
 ```
 
 Go to the project directory
